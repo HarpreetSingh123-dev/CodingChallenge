@@ -24,7 +24,7 @@ function ParticularDevice(props) {
 
         return () =>{
 
-            console.log("in unmounting")
+          
             dispatch(particulerDeviceStateClear)
 
         }
