@@ -1,0 +1,13 @@
+.item .menuItem{
+
+    text-decoration: none;
+    color: black;
+}
+
+
+.item .menuItem:hover{
+    font-weight: bolder;
+    cursor: pointer;
+    border-bottom: 0.5px solid black
+}
+
